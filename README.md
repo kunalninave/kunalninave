@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kunalninave
+- 😎 Whacky Proud BITSian
 - 👀 I’m interested in Data Science, current an MBA candidate with specialization in Business and Data Analytics along with Human Resources
 - 🌱 I’m currently learning Machine Learning, SQL, Tableau, Python, R and Alteryx
 - 💞️ I’m looking to collaborate on projects and internships
